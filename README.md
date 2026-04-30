@@ -2,7 +2,7 @@
 
 Flask API that uses Claude to analyse job description fit for Ahmed Bendimered's portfolio.
 
-Called by the frontend at [portfolio.vercel.app](https://your-portfolio.vercel.app).
+Called by the frontend at [ahmed-ai.com](https://ahmed-ai.com).
 
 ## Setup
 
